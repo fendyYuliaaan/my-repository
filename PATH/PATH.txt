@@ -10,8 +10,8 @@ C:\Program Files\TortoiseSVN\bin;
 C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;
 D:\Software\DevTools\apache-ant-1.8.2\bin;
 
-SUCCESS
-
+SUCCESS 
+asda
 D:\Software\Ninja;
 C:\Program Files (x86)\CMake\bin;
 D:\Software\cygwin\bin;
